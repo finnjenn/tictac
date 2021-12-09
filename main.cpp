@@ -20,13 +20,13 @@ int main() {//mains starts
     //Displaying board
     
     cout << "           |     |     \n";
-    cout << "        " <<space1<< "  |  " << space2 << "  |  " << space3<< "  \n";
+    cout << "     1  " <<space1<< "  |2 " << space2 << "  |3 " << space3<< "  \n";
     cout << "      _____|_____|_____\n";
     cout << "           |     |     \n";
-    cout << "        " <<space4<< "  |  " << space5 << "  |  " << space6<< "  \n";
+    cout << "     4  " <<space4<< "  |5 " << space5 << "  |6 " << space6<< "  \n";
     cout << "      _____|_____|_____\n";
     cout << "           |     |     \n";
-    cout << "        " <<space7<< "  |  " << space8 << "  |  " << space9<< "  \n";
+    cout << "     7  " <<space7<< "  |8 " << space8 << "  |9 " << space9<< "  \n";
     cout << "           |     |     \n";
 
 
@@ -75,13 +75,13 @@ int main() {//mains starts
     //Updated display board
 
     cout << "           |     |     \n";
-    cout << "        " <<space1<< "  |  " << space2 << "  |  " << space3<< "  \n";
+    cout << "     1  " <<space1<< "  |2 " << space2 << "  |3 " << space3<< "  \n";
     cout << "      _____|_____|_____\n";
     cout << "           |     |     \n";
-    cout << "        " <<space4<< "  |  " << space5 << "  |  " << space6<< "  \n";
+    cout << "     4  " <<space4<< "  |5 " << space5 << "  |6 " << space6<< "  \n";
     cout << "      _____|_____|_____\n";
     cout << "           |     |     \n";
-    cout << "        " <<space7<< "  |  " << space8 << "  |  " << space9<< "  \n";
+    cout << "     7  " <<space7<< "  |8 " << space8 << "  |9 " << space9<< "  \n";
     cout << "           |     |     \n";
     
     //Player 1 Turn End
